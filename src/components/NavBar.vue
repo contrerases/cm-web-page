@@ -69,7 +69,7 @@
             </li>
           </ul>
         </li>
-
+        
         <!-- Consejo Escolar -->
         <li class="relative group">
           <span class="hover:text-primary transition uppercase cursor-pointer">Consejo Escolar</span>

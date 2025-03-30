@@ -1,8 +1,5 @@
 <template>
   <section class="bg-background pt-12 top-10 mt-10 mb-10">
-    
-      <!-- title
-        -->
 
     <TitleImage 
         title="Noticias"
